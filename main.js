@@ -1,0 +1,1 @@
+console.log("My identical string" === "My IDENTICAL    string");
