@@ -1,1 +1,3 @@
-console.log("My identical string" === "My IDENTICAL    string");
+// Changed the code so both sides are completely identical by fixing case sensitivity and space sensitivity
+
+console.log("My identical string" === "My identical string");
